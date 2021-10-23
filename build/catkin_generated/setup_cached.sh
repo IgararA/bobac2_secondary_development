@@ -8,7 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/bobac2/bobac2_secondary_development/devel:$CMAKE_PREFIX_PATH"
-export PATH='/opt/ros/kinetic/bin:/home/bobac2/bin:/home/bobac2/.local/bin:/home/bobac2/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
+export LD_LIBRARY_PATH="/home/bobac2/bobac2_secondary_development/devel/lib:$LD_LIBRARY_PATH"
 export PWD='/home/bobac2/bobac2_secondary_development/build'
 export ROSLISP_PACKAGE_DIRECTORIES='/home/bobac2/bobac2_secondary_development/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/bobac2/bobac2_secondary_development/src:$ROS_PACKAGE_PATH"

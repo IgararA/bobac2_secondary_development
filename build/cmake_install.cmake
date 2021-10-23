@@ -126,6 +126,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/bobac2/bobac2_secondary_development/build/gtest/cmake_install.cmake")
+  include("/home/bobac2/bobac2_secondary_development/build/easy_slam/cmake_install.cmake")
 
 endif()
 

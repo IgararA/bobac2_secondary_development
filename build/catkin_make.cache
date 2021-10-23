@@ -1,2 +1,2 @@
-
+easy_slam
 -DCATKIN_DEVEL_PREFIX=/home/bobac2/bobac2_secondary_development/devel -DCMAKE_INSTALL_PREFIX=/home/bobac2/bobac2_secondary_development/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/bobac2/bobac2_secondary_development/devel
+
+Name: easy_slam
+Description: Description of easy_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
